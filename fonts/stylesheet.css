@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'Duddy';
+    src: url('Duddy-Thin.eot');
+    src: url('Duddy-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Duddy-Thin.woff2') format('woff2'),
+        url('Duddy-Thin.woff') format('woff'),
+        url('Duddy-Thin.ttf') format('truetype'),
+        url('Duddy-Thin.svg#Duddy-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Duddy-Hair';
+    src: url('Duddy-Hair.eot');
+    src: url('Duddy-Hair.eot?#iefix') format('embedded-opentype'),
+        url('Duddy-Hair.woff2') format('woff2'),
+        url('Duddy-Hair.woff') format('woff'),
+        url('Duddy-Hair.ttf') format('truetype'),
+        url('Duddy-Hair.svg#Duddy-Hair') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Duddy';
+    src: url('Duddy-Black.eot');
+    src: url('Duddy-Black.eot?#iefix') format('embedded-opentype'),
+        url('Duddy-Black.woff2') format('woff2'),
+        url('Duddy-Black.woff') format('woff'),
+        url('Duddy-Black.ttf') format('truetype'),
+        url('Duddy-Black.svg#Duddy-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Duddy';
+    src: url('Duddy-Semibold.eot');
+    src: url('Duddy-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('Duddy-Semibold.woff2') format('woff2'),
+        url('Duddy-Semibold.woff') format('woff'),
+        url('Duddy-Semibold.ttf') format('truetype'),
+        url('Duddy-Semibold.svg#Duddy-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Duddy';
+    src: url('Duddy-Bold.eot');
+    src: url('Duddy-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Duddy-Bold.woff2') format('woff2'),
+        url('Duddy-Bold.woff') format('woff'),
+        url('Duddy-Bold.ttf') format('truetype'),
+        url('Duddy-Bold.svg#Duddy-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Duddy';
+    src: url('Duddy-Regular.eot');
+    src: url('Duddy-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Duddy-Regular.woff2') format('woff2'),
+        url('Duddy-Regular.woff') format('woff'),
+        url('Duddy-Regular.ttf') format('truetype'),
+        url('Duddy-Regular.svg#Duddy-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Duddy-Normal';
+    src: url('Duddy-Normal.eot');
+    src: url('Duddy-Normal.eot?#iefix') format('embedded-opentype'),
+        url('Duddy-Normal.woff2') format('woff2'),
+        url('Duddy-Normal.woff') format('woff'),
+        url('Duddy-Normal.ttf') format('truetype'),
+        url('Duddy-Normal.svg#Duddy-Normal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Duddy';
+    src: url('Duddy-Light.eot');
+    src: url('Duddy-Light.eot?#iefix') format('embedded-opentype'),
+        url('Duddy-Light.woff2') format('woff2'),
+        url('Duddy-Light.woff') format('woff'),
+        url('Duddy-Light.ttf') format('truetype'),
+        url('Duddy-Light.svg#Duddy-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+

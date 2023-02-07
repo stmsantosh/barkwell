@@ -1,0 +1,23 @@
+/***testimonial__page****/
+.testimonial__page .slick-next.slick-arrow {
+    display: none !important;
+}
+
+.testimonial__page .slick-prev.slick-arrow {
+    display: none !important;
+}
+.testimonial__page ul.slick-dots {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+.testimonial__page i.fa.fa-star.empty {
+    color: #02020261;
+}
+.testimonial-content i.fa.fa-star.empty {
+    color: #02020261;
+}
+/**product-details-page**/
+.product__media.media.media--transparent.gradient.global-media-settings {
+    background: none;
+}
